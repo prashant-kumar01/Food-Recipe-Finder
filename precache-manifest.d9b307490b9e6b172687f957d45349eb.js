@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34d74dc0dce66802fe7c9bd6577c3790",
+    "revision": "44df1360326ffecd585213ab031435e2",
     "url": "/Food-Recipe-Finder/index.html"
   },
   {
-    "revision": "1441a8da851b6b486f92",
-    "url": "/Food-Recipe-Finder/static/css/main.8aebae24.chunk.css"
+    "revision": "d20025a5f76277fd992d",
+    "url": "/Food-Recipe-Finder/static/css/main.6c9f68aa.chunk.css"
   },
   {
-    "revision": "6455f491aa95ecade754",
-    "url": "/Food-Recipe-Finder/static/js/2.2860c516.chunk.js"
+    "revision": "99e6d08d90db1216558a",
+    "url": "/Food-Recipe-Finder/static/js/2.6bdf5ffc.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/Food-Recipe-Finder/static/js/2.2860c516.chunk.js.LICENSE.txt"
+    "url": "/Food-Recipe-Finder/static/js/2.6bdf5ffc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1441a8da851b6b486f92",
-    "url": "/Food-Recipe-Finder/static/js/main.3093b92a.chunk.js"
+    "revision": "d20025a5f76277fd992d",
+    "url": "/Food-Recipe-Finder/static/js/main.24bb00a3.chunk.js"
   },
   {
     "revision": "01d5f2869417e6e21b15",
