@@ -1,4 +1,5 @@
 import React from "react";
+import "../App.css";
 
 const Header = props => {
   const { search, onInputChange, onSearchClick } = props;
@@ -7,7 +8,7 @@ const Header = props => {
       <h1 className="display-1 name">
         <i class="material-icons brand-icon">fastfood</i> Food Recipe
       </h1>
-      <div class="input-group w-50 mx-auto">
+      <div class="input-group mx-auto xyz">
         <input
           type="text"
           class="form-control"
