@@ -27,6 +27,9 @@ body{
   border: 5px solid #311e07;
   border-radius: 20px;
 }
+.xyz{
+  width: 40vw;
+}
 
 .brand-icon {
     font-size: 100px;
@@ -36,4 +39,7 @@ body{
     background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-restaurant-food-poster-image_174124.jpg');
 
   } 
+  .xyz{
+    width: 80vw;
+  }
 }
