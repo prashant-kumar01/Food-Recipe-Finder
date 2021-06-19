@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@700&display=swap');
+body{
+  overflow-x: hidden;
+  background-image: url('https://images.unsplash.com/photo-1576092762791-dd9e2220abd1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80');
+}
+.name{
+  font-family: 'Charmonman', cursive;
+}
+.jumbotron {
+  background-image: url('bg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -100px;
+  color: #fff;
+  padding: 100px 10px;
+  text-align: center;
+}
+.Loader{
+  padding-top: 5%;
+  text-align: center;
+}
+.search{
+  padding: 30px;
+}
+.blocks{
+  margin-top: 20px;
+  border: 5px solid #311e07;
+  border-radius: 20px;
+}
+
+.brand-icon {
+    font-size: 100px;
+}
+@media screen and (max-width: 680px) {   
+  .jumbotron{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-restaurant-food-poster-image_174124.jpg');
+
+  } 
+}
